@@ -1,46 +1,44 @@
 <div align="center">
 
-# 🐍 Xin chào, mình là Dương Khánh Băng
+# 🐍 Dương Khánh Băng
 
-🎯 Sinh viên Công nghệ Thông tin đang học và phát triển kỹ năng Python từ cơ bản đến nâng cao.
+### 💻 IT Student | Python Learner
 
-💻 Repository này là nơi mình lưu lại:
-- Quá trình học Python
-- Bài tập thực hành
-- Mini project
-- Những kiến thức và kinh nghiệm mình học được
+🎓 MSSV: 2124110011
 
-[![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![Level](https://img.shields.io/badge/Level-Beginner-6366f1?style=flat-square)](#)
-[![Learning](https://img.shields.io/badge/Learning-Python-f59e0b?style=flat-square)](#)
+Mình là Dương Khánh Băng, sinh viên Công nghệ Thông tin đang học và phát triển kỹ năng lập trình Python. Repository này được tạo ra để lưu lại quá trình học tập, bài tập thực hành và các mini project của mình.
+
+[![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![Status](https://img.shields.io/badge/Status-Learning-success?style=flat-square)](#)
+[![Level](https://img.shields.io/badge/Level-Beginner-blue?style=flat-square)](#)
 
 </div>
 
 ---
 
-# 📚 Mục tiêu của repository
+# 📖 Giới thiệu
 
-Repository này được mình tạo ra để:
+Repository này là nơi mình:
 
-- Luyện tập Python mỗi ngày
-- Ghi chú lại kiến thức đã học
-- Theo dõi quá trình phát triển kỹ năng lập trình
-- Xây dựng nền tảng cho các dự án lớn hơn trong tương lai
+- 📚 Lưu lại quá trình học Python
+- 📝 Thực hành bài tập và mini project
+- 💡 Ghi chú kiến thức đã học
+- 🚀 Rèn luyện kỹ năng lập trình
+- 📈 Theo dõi sự tiến bộ của bản thân
 
 ---
 
-# 🚀 Những gì mình đang học
+# 🚀 Hiện tại mình đang học
 
 ```text
 ✓ Python cơ bản
 ✓ Biến và kiểu dữ liệu
 ✓ Input / Output
 ✓ Điều kiện và vòng lặp
-✓ Hàm trong Python
-✓ List, Tuple, Dictionary, Set
-✓ OOP trong Python
-✓ File và JSON
-✓ Mini Project Console
+✓ Function trong Python
+✓ List / Tuple / Dictionary
+✓ OOP cơ bản
+✓ Git & GitHub
 ```
 
 ---
@@ -49,15 +47,10 @@ Repository này được mình tạo ra để:
 
 ```text
 python-journey/
-├── README.md
-├── weeks/
-│   ├── week-01-hello-python/
-│   ├── week-02-variables-types/
-│   ├── week-03-condition/
-│   └── ...
-│
-├── mini-projects/
 ├── exercises/
+├── mini-projects/
+├── weeks/
+├── notes/
 └── assets/
 ```
 
@@ -66,21 +59,21 @@ python-journey/
 # 🛠️ Công nghệ sử dụng
 
 - Python 3.11
-- VS Code
+- Visual Studio Code
 - Git & GitHub
 
 ---
 
 # 🎯 Mục tiêu sắp tới
 
-- Hoàn thành lộ trình Python
+- Hoàn thiện Python cơ bản
 - Xây dựng project thực tế
 - Học Django / Flask
-- Học AI và Machine Learning
+- Tìm hiểu AI và Machine Learning
 
 ---
 
-# ⚡ Cách chạy project
+# ⚡ Clone project
 
 ```bash
 git clone https://github.com/duongkhanhbang/python-journey.git
@@ -90,15 +83,9 @@ cd python-journey
 
 ---
 
-# 📖 Ghi chú
-
-Đây là repository học tập cá nhân nên mình sẽ cập nhật thường xuyên trong quá trình học và thực hành Python.
-
----
-
 <div align="center">
 
-✨ Cảm ơn bạn đã ghé qua repository của mình ✨
+✨ Cảm ơn bạn đã ghé thăm repository của mình ✨
 
 Made with ❤️ by Dương Khánh Băng
 
