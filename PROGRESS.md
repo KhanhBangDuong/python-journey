@@ -7,12 +7,12 @@
 ## 🟢 Giai đoạn 1: Khởi đầu
 
 ### Tuần 01: Hello Python
-- [ ] Đọc README tuần 1
-- [ ] Hoàn thành `ex01_hello.py` — In lời chào
-- [ ] Hoàn thành `ex02_calculator.py` — Phép tính cơ bản
-- [ ] Hoàn thành `ex03_input.py` — Nhập từ bàn phím
-- [ ] 🚀 Mini-Project: ASCII Art Generator
-- [ ] Commit & push lên GitHub
+- [x] Đọc README tuần 1
+- [x] Hoàn thành `ex01_hello.py` — In lời chào
+- [x] Hoàn thành `ex02_calculator.py` — Phép tính cơ bản
+- [x] Hoàn thành `ex03_input.py` — Nhập từ bàn phím
+- [x] 🚀 Mini-Project: ASCII Art Generator
+- [x] Commit & push lên GitHub
 
 ### Tuần 02: Biến & Kiểu dữ liệu
 - [ ] Đọc README tuần 2
