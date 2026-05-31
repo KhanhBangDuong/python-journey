@@ -3,7 +3,7 @@ Mini-Project: ASCII Art Generator 🎨
 =====================================
 Tạo chương trình in hình ASCII đẹp từ tên người dùng.
 
-Chạy: python starter.py
+Chạy: python starter.py  
 """
 
 # Bước 1: Hỏi tên người dùng
